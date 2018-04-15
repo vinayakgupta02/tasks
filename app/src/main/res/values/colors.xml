@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="purple">#66000000</color>
+    <color name="pink">#ea487f</color>
+    <color name="back_desc_color">#eeeeee</color>
+    <color name="desc_text_color">#333333</color>
+    <color name="white">#ffffff</color>
+    <color name="purple_stick">#6f32b3</color>
+    <color name="linear_boundary">#d7d7d7</color>
+    <color name="purple_txt_color">#9c55e9</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZivameTask</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">ZivameTask</string>
+    <string name="zivame">Zivame</string>
+    <string name="sample_item_feature">POLYSTER SPANDEX</string>
+    <string name="desc_see_more">SEE MATCHING PRODUCTS</string>
+    <string name="desc_learn_more">LEARN MORE</string>
+</resources>

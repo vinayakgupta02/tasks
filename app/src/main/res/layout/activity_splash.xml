@@ -1,0 +1,24 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fullscreen_content_controls"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/zivame_triology">
+
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/app_title"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="64sp"
+        android:gravity="center"
+        android:text="@string/zivame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
