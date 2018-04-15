@@ -69,13 +69,8 @@ public class MainActivity extends AppCompatActivity {
                     super.onCustomObjectRequest(object);
                     itemDetailsList = (ArrayList<ItemFeatures.ItemDetails>) object;
                     Log.i(TAG,"RESPONSE : " + itemDetailsList.size());
-                    runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            prepareLayout();
-                            clearObjects();
-                        }
-                    });
+                    prepareLayout();
+                    clearObjects();
                 }
 
                 @Override
